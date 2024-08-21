@@ -9,8 +9,11 @@ This guide outlines the tasks done during CognoRise Infotech Internship, contain
 ## Project 1: Spam Email Detection 
 ### Objective
 Classify emails as spam or not spam based on their content.
-- Data: Spam dataset from Kaggle.
-- Features: Message.
-- Target: Category.
+- **Data**: Spam dataset from Kaggle.
+- **Features**: Message.
+- **Target**: Category.
 ## Methodology
-1. Data Preprocessing: Checked for missing values and performed feature extraction for text data.
+1. **Data Preprocessing**:
+- Checked for missing values.
+- Encoded categorical data.
+- Feature extraction for text data.
